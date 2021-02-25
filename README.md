@@ -1,8 +1,8 @@
-### :wave::smile: Hi There!
+## :wave::smile: Hi There!
 
 My name is Jonathan. I’m a Web Development Student :student:, eager to contribute and create apps that can positively impact people's lives! :eight_spoked_asterisk:
 
-#### 🌱 I'm challenging myself with:
+### 🌱 I'm challenging myself with:
 
 Since I made contact with the world of development,I have been feeding myself daily with knowledge about web development. :notebook_with_decorative_cover:
 
