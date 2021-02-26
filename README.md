@@ -10,7 +10,7 @@ My name is Jonathan. I’m a Web Development Student :student:, eager to contrib
 Since I made contact with the world of development,I have been feeding myself daily with knowledge about web development. :notebook_with_decorative_cover:                                                                                 
 * I'm currently trying to dive deeper and deeper into the React Framework. 
 * Learning more about typescript.
-* Trying out some funny web animations.
+* Trying out some web animations.
 * Reading Dev articles daily. :newspaper:      
 
 ### :desktop_computer: Tools and Languages <img src="./jimCoding.gif" width="50" heigth="auto" align="center" /> 
