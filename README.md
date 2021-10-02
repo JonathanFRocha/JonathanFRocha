@@ -8,10 +8,9 @@ My name is Jonathan. I’m a Web Development Student :student:, eager to contrib
 ### 🌱 I'm challenging myself with:
 
 Since I made contact with the world of development,I have been feeding myself daily with knowledge about web development. :notebook_with_decorative_cover:                                                                                 
-* I'm currently trying to dive deeper and deeper into the React Framework. 
-* Learning more about Python.
-* Trying out some web animations.
-* Reading Dev articles daily. :newspaper:      
+* I'm currently trying to dive deeper and deeper into the Backend world using node and .NET core 
+* Learning more about C#.
+* Trying out some JAVA.    
 
 ### :desktop_computer: Tools and Languages <img src="./jimCoding.gif" width="50" heigth="auto" align="center" /> 
 
