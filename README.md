@@ -2,10 +2,10 @@
 
 My name is Jonathan. I’m a Web Development Student :student:, eager to contribute and create apps that can positively impact people's lives! :eight_spoked_asterisk:
 
-<!-- gif Image -->
-<a href="https://github.com/jonathanfrocha">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanfrocha">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanfrocha&theme=algolia" />
 </a>
+<br>
 
 ### 🌱 I'm challenging myself with:
 
@@ -17,7 +17,7 @@ Since I made contact with the world of development,I have been feeding myself da
 ### :desktop_computer: Tools and Languages <img src="./jimCoding.gif" width="50" heigth="auto" align="center" /> 
 
 <a href="https://gitstats.me/JonathanFRocha">
-    <img width="460" height="auto" align="right" alt="Jonathan's github stats" 
+    <img width="450" align="right" alt="Jonathan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jonathanfrocha&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /> </a>        
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href="https://www.postman.com/"><img height="40" src="https://i2.wp.com/pngimage.net/wp-content/uploads/2018/06/postman-icon-png-6.png?w=1080&ssl=1" alt="postman icon"></a></code>
