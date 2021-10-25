@@ -2,7 +2,7 @@
 
 My name is Jonathan. I’m a Web Development Student :student:, eager to contribute and create apps that can positively impact people's lives! :eight_spoked_asterisk:
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanfrocha">
+<a href="https://github.com/jonathanFrocha/">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanfrocha&theme=algolia" />
 </a>
 <br>
