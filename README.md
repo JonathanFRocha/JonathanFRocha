@@ -1,6 +1,6 @@
 ## :wave::smile: Hi There!
 
-My name is Jonathan. I’m a Web Development Student :student:, eager to contribute and create apps that can positively impact people's lives! :eight_spoked_asterisk:
+My name is Jonathan, i’m a Software Engineer. :eight_spoked_asterisk:
 
 <a href="https://github.com/jonathanFrocha/">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanfrocha&theme=algolia" />
@@ -10,9 +10,9 @@ My name is Jonathan. I’m a Web Development Student :student:, eager to contrib
 ### 🌱 I'm challenging myself with:
 
 Since I made contact with the world of development,I have been feeding myself daily with knowledge about web development. :notebook_with_decorative_cover:                                                                                 
-* I'm currently trying to dive deeper and deeper into the Backend world using node, Java and .NET core 
-* Learning more about C#.
-* Creating APIs using Java.    
+* I'm currently trying to dive deeper and deeper into the Backend world using Javascript, Java and C# 
+* Learning more about Kubernetes, Docker and AWS.
+* Creating APIs using Spring Boot.    
 
 ### :desktop_computer: Tools and Languages <img src="./jimCoding.gif" width="50" heigth="auto" align="center" /> 
 
