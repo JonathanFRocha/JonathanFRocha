@@ -13,11 +13,11 @@ My name is Jonathan, i’m a Software Engineer. :eight_spoked_asterisk:
 * I'm currently testing a few things in azure, like implementing CI/CD pipelines, Deployments, K8S.
 * New architectural concepts for .NET and reading more about good practices.
 * New Projects using .NET 6    
-
+<br>
+<br>
 ### :desktop_computer: Tools and Languages <img src="./jimCoding.gif" width="50" heigth="auto" align="center" /> 
 <br>
-<br>
-<br>
+
 <a href="https://gitstats.me/JonathanFRocha">
     <img width="450" align="right" alt="Jonathan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=jonathanfrocha&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /> </a>        
