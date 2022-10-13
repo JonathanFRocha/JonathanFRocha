@@ -14,7 +14,7 @@ My name is Jonathan, i’m a Software Engineer. :eight_spoked_asterisk:
 * New architectural concepts for .NET and reading more about good practices.
 * New Projects using .NET 6    
 <br>
-<br>
+
 ### :desktop_computer: Tools and Languages <img src="./jimCoding.gif" width="50" heigth="auto" align="center" /> 
 <br>
 
